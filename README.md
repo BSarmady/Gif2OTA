@@ -8,7 +8,7 @@ A very old untility to convert GIF images to Nokia OTA  Smart Message Images
 
 During years 1998 to 2004 there was a craze for sending SMS that contained image and animation took over Iran. Most People had Nokia or Siemens phones which both supported OTA images, you could even include small animations that would span through maximum 3 SMS messages. People even would copy these images to their phone to brag to others. But something less known to most people was how easy they can make these images. I wrote this app to change gif images to OTA and give it to my friends (obviously at that time and only in black and white).
 
-## Encoding An Ota Bitmap
+## Encoding An OTA Bitmap
 
 An OTA bitmap is used as part of the following Smart Messaging formats: Operator logo, CLI icon, 
 Picture Message, and Downloadable Profile. In today's Nokia phones the maximum size of the 
